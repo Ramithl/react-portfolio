@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Ramith1
+          pls sakbo
         </a>
       </header>
     </div>
